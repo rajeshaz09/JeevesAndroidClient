@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml:18:1-38:12
+INJECTED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml:18:1-38:12
+INJECTED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml:18:1-38:12
+INJECTED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml:18:1-38:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\c04122075202a1914938f610c2e630d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c3af4eae540d4b676707a9c45010a038\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\7beb93d51983912a65e017a59e22b79b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\05dfbd0e1ca0b48011eaf635c1d66e83\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a3c35f65e265d5c6b58ae3d899a2af0e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\307f69a7550c05ca198d36bf4213c4ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a8a26dc9a2b443c90360c21ceaf35245\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0ca38b912eb914121c264f931222d08d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9a2a98f2f2e1f259a1a2ebb073a52438\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\3f3603f9c72c38b9fff28a27aad8cd4e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\161c3e0d87fce95fcd5e1d17a0608b1d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\118286e288991208f1c5697744a1df5c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dfc3aa5f1d890757248431d73ea9d3c1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4d53ccb8ba09827128312c19f1a55e27\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5dabd2cc14bf73c8fca49f996c7327d2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cc8692b63a74ee6ca7e0bc180849519f\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml:18:1-38:12
+INJECTED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml:18:1-38:12
+INJECTED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml:18:1-38:12
+	package
+		ADDED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml:18:11-48
+		INJECTED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml:18:1-38:12
+		INJECTED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml:18:1-38:12
+		INJECTED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml:19:11-69
+application
+ADDED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml:21:5-37:19
+	android:supportsRtl
+		ADDED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml:24:9-43
+	android:allowBackup
+		ADDED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml:27:9-40
+	android:name
+		ADDED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml:22:9-40
+activity#com.google.codelabs.appauth.MainActivity
+ADDED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml:29:9-35:20
+	android:name
+		ADDED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml:29:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml:31:17-68
+	android:name
+		ADDED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\c04122075202a1914938f610c2e630d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\c04122075202a1914938f610c2e630d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c3af4eae540d4b676707a9c45010a038\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\c3af4eae540d4b676707a9c45010a038\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\7beb93d51983912a65e017a59e22b79b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\7beb93d51983912a65e017a59e22b79b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\05dfbd0e1ca0b48011eaf635c1d66e83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\05dfbd0e1ca0b48011eaf635c1d66e83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a3c35f65e265d5c6b58ae3d899a2af0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a3c35f65e265d5c6b58ae3d899a2af0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\307f69a7550c05ca198d36bf4213c4ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\307f69a7550c05ca198d36bf4213c4ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a8a26dc9a2b443c90360c21ceaf35245\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a8a26dc9a2b443c90360c21ceaf35245\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0ca38b912eb914121c264f931222d08d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0ca38b912eb914121c264f931222d08d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9a2a98f2f2e1f259a1a2ebb073a52438\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9a2a98f2f2e1f259a1a2ebb073a52438\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\3f3603f9c72c38b9fff28a27aad8cd4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\3f3603f9c72c38b9fff28a27aad8cd4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\161c3e0d87fce95fcd5e1d17a0608b1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\161c3e0d87fce95fcd5e1d17a0608b1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\118286e288991208f1c5697744a1df5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\118286e288991208f1c5697744a1df5c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dfc3aa5f1d890757248431d73ea9d3c1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dfc3aa5f1d890757248431d73ea9d3c1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4d53ccb8ba09827128312c19f1a55e27\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4d53ccb8ba09827128312c19f1a55e27\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5dabd2cc14bf73c8fca49f996c7327d2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5dabd2cc14bf73c8fca49f996c7327d2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cc8692b63a74ee6ca7e0bc180849519f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\rajesh.aravapalli.JEEVESTOP\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cc8692b63a74ee6ca7e0bc180849519f\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rajesh.aravapalli.JEEVESTOP\Documents\GitHub\JeevesAndroidClient\app\src\main\AndroidManifest.xml
