@@ -121,7 +121,7 @@ public class MainActivity extends AppCompatActivity {
 
   private void persistAuthState(@NonNull AuthState authState) {
     getSharedPreferences(SHARED_PREFERENCES_NAME, Context.MODE_PRIVATE).edit()
-        .putString(AUTH_STATE, authState.toJsonString())
+        .putString(AUTH_STATE, authState.jsonSerializeString())
         .commit();
     enablePostAuthorizationFlows();
   }
@@ -139,7 +139,7 @@ public class MainActivity extends AppCompatActivity {
         .getString(AUTH_STATE, null);
     if (!TextUtils.isEmpty(jsonString)) {
       try {
-        return AuthState.fromJson(jsonString);
+        return AuthState.jsonDeserialize(jsonString);
       } catch (JSONException jsonException) {
         // should never happen
       }
