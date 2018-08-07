@@ -1,0 +1,48 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 27
+    buildToolsVersion "27.0.3"
+    defaultConfig {
+        applicationId "com.hadiidbouk.appauth_ientityserver4"
+        minSdkVersion 25
+        targetSdkVersion 27
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        manifestPlaceholders = [
+                'appAuthRedirectScheme': 'jeevesandroidclient'
+        ]
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    buildTypes.each {
+        it.buildConfigField 'String', 'CLIENT_ID', clientId
+        it.buildConfigField 'String', 'CLIENT_SECRET', clientSecret
+        it.buildConfigField 'String', 'REDIRECT_URI', redirectUri
+        it.buildConfigField 'String', 'SCOPE', scope
+        it.buildConfigField 'String', 'ISSUER', issuer
+        it.buildConfigField 'String', 'AUTHORIZSTION_END_POINT_URI', authorizationEndpointUri
+        it.buildConfigField 'String', 'TOKEN_END_POINT_URI', tokenEndpointUri
+        it.buildConfigField 'String', 'REGISTRATION_END_POINT_URI', registrationEndpointUri
+        it.buildConfigField 'String', 'RESPONSE_TYPE', responseType
+
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestImplementation('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+
+    //noinspection GradleCompatible
+    implementation 'com.android.support:appcompat-v7:27.1.1'
+    implementation 'net.openid:appauth:0.7.0'
+    testImplementation 'junit:junit:4.12'
+}
